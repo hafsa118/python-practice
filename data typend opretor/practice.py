@@ -71,3 +71,4 @@ frnd=int(input("number of frnd "))
 bill= total_bill/frnd
 print(bill)
 
+
